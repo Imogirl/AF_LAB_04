@@ -1,0 +1,19 @@
+{
+  "name": "af_lab_04",
+  "version": "1.0.0",
+  "description": "Lab_04",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imogirl/AF_LAB_04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imogirl/AF_LAB_04/issues"
+  },
+  "homepage": "https://github.com/Imogirl/AF_LAB_04#readme"
+}
