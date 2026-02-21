@@ -1,5 +1,7 @@
 const condition = true;
 
+console.log('Tharuka Sanjeewa');
+
 const myPromise = new Promise((resolve, reject) => {
  if (condition) {
  resolve('Success!');
